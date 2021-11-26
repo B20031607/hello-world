@@ -1,6 +1,6 @@
-/**
+/*
 本地编辑
-**/
+*/
 
 char* StrCpy(char* src)
 {
